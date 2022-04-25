@@ -93,3 +93,6 @@ to (level order)
 (VARIABLE, (ptr, VARIABLE), link = 0)
 (VARIABLE, (right_child, VARIABLE), link = 0)
 ```
+
+생성된 트리 기반 시각화
+<img src="imgs/visualization.jpg" />
